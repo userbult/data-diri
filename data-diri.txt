@@ -1,4 +1,5 @@
 Nama : Baihaki
 umur : 19
-ijazah terakhir : SMA
 Alamat : Sapudi
+TB : 170 cm
+BB : 50 kg
